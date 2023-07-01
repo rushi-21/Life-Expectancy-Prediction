@@ -17,12 +17,11 @@ The project consisted of the following key steps, each contributing to the succe
 
 2. Exploratory Data Analysis: By performing data exploration and visualization techniques, we identified patterns, outliers, and correlations within the dataset, gaining valuable insights into the data.
 
-Data Preparation: We divided the dataset into training and testing sets, ensuring that the model's performance could be evaluated accurately.
+3. Data Preparation: We divided the dataset into training and testing sets, ensuring that the model's performance could be evaluated accurately.
 
-Model Training: Utilizing Scikit-learn, we trained a Linear Regression model on the training data, allowing it to learn the relationships between the input features and the target variable (life expectancy).
+4. Model Training: Utilizing Scikit-learn, we trained a Linear Regression model on the training data, allowing it to learn the relationships between the input features and the target variable (life expectancy).
 
-Model Evaluation: We assessed the trained model's performance by comparing its predictions on the testing data with the actual life expectancy values, employing appropriate evaluation metrics.
+5. Model Evaluation: We assessed the trained model's performance by comparing its predictions on the testing data with the actual life expectancy values, employing appropriate evaluation metrics.
 
-Reflection and Learning: Through this project, we gained hands-on experience in implementing machine learning techniques, improving our understanding of data preprocessing, model training, and evaluation processes.
-
-By following this systematic approach, we successfully developed a reliable model for life expectancy prediction. This project not only enhances our skills but also contributes to the broader goal of utilizing machine learning for meaningful applications in healthcare.
+By following this systematic approach, we successfully developed a reliable model for life expectancy prediction.
+By engaging in this project, we acquired practical knowledge in implementing machine learning techniques, thereby enhancing our comprehension of data preprocessing, model training, and evaluation processes. This endeavor not only bolsters our skill set but also aligns with the overarching objective of leveraging machine learning for impactful applications in healthcare.
